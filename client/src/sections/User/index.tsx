@@ -101,7 +101,7 @@ export const User = ({
 			setBookingsPage={setBookingsPage}
 		/>
 	) : null;
-
+	//ant-col ant-col-xs-24 ant-col-sm-12 ant-col-lg-6
 	return (
 		<Content className='user'>
 			{stripeErrorBanner}
